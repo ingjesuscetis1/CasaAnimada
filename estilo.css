@@ -1,0 +1,41 @@
+.Caja1,.Caja2,.Caja3,.Caja4,.Caja5{
+    width:200px ;
+    height: 200px;
+    border:2px solid black;
+}
+.Caja1{
+    background-color: grey;
+    position: relative;
+    left: 420px;
+    width: 800px;
+    height: 100px;
+   
+}
+.Caja2{
+    background-color: burlywood;
+    position:relative;
+    left: 510px;
+    width: 600px;
+    height: 800px;
+}
+.Caja3{
+    background-color: beige;
+    position: absolute;
+    left: 570px;
+    bottom: 300px;
+    
+}
+.Caja4{
+    background-color: beige;
+   position: absolute;
+    left: 890px;
+    bottom: 190px;
+}
+.Caja5{
+    background-color: black;
+    position: absolute;
+    left: 700px;
+    bottom: -17
+    
+    
+}
